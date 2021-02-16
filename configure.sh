@@ -20,8 +20,7 @@ cat << EOF > /usr/local/etc/xray/config.json
             "settings": {
                 "clients": [
                     {
-                        "id": "$UUID",
-                        "alterId": 0
+                        "id": "$UUID"
                     }
                 ],
                 "disableInsecureEncryption": true
