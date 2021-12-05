@@ -1,7 +1,7 @@
 {
     "name": "Xray",
     "description": "Deploy Xray VMESS on Heroku.",
-    "keywords": ["XRay"],
+    "keywords": ["Xray"],
     "env": {
         "UUID": {
             "description": "Xray UUID",
