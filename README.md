@@ -4,11 +4,11 @@
 
 ## 概述
 
-用于在 Heroku 上部署 xray Websocket + tls
+用于在 Heroku 上部署 xray VMESS Websocket + tls
 
 ## 一键部署到Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HXHGTS/xray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/HXHGTS/vmess-heroku)
 
 ## ENV 设定
 
